@@ -7,15 +7,23 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Experienced BIM Engineer specializing in BIM MEPF, family creation and Dynamo scripting.
+As a Team Lead, I effectively guide teams to deliver exceptional results.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+Specialties:
+ Family Creation: Expertise in creating accurate and efficient BIM families.
+ Dynamo Scripting: Proficient in developing custom Dynamo scripts for workflow automation.
+ MEPF Modeling: Skilled in modeling MEPF systems for coordinated and clash-free designs.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Key Skills:
+ BIM Coordination: Coordinating BIM models and ensuring seamless integration.
+ MEPF Modeling: Proficient in modeling electrical, mechanical, plumbing, and fire protection systems.
+ Project Management: Strong leadership and project execution abilities.
+ Quality Assurance: Ensuring high-quality BIM deliverables.
+ Technical Proficiency: Expertise in Autodesk Revit, Navisworks, AutoCAD, and staying up-to-date with industry advancements.
 
-PS: If you liked the theme, do star it on GitHub!
+Achievements:
+ Led a team of BIM engineers in successfully delivering complex projects, surpassing client expectations and achieving high customer satisfaction.
+ Developed and implemented a standardized BIM family library, improving efficiency by 30% and reducing errors in project deliverables.
+ Created custom Dynamo scripts that significantly reduced project coordination time, resulting in a 20% increase in overall productivity.
 
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
