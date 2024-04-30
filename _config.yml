@@ -1,10 +1,10 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Khaja Fareeduddin Khan
+description:  BIM Engineer | Electrical Engineer | Team Lead | Revit Content Creator | Dynamo
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: "/" #name of GitHub repository
+url: "https://khajafareeduk.github.io" #custom url to be used instead of GitHub repository
 email: #
 
 # Pagination
