@@ -13,8 +13,8 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "https://in.linkedin.com/in/khanfrd"
-github: "https://github.com/khanfrd"
+linkedin: "khanfrd"
+github: "khanfrd"
 
 
 # Markdown
